@@ -87,3 +87,11 @@ These records form part of the public provenance, prior-use evidence, and identi
 - Archives are provided via **independent third-party services** to establish verifiable public timestamps.
 - These records support claims of **first public use**, **prior art**, and **source identification**.
 - **AyeCNSe** denotes a latency-aware nervous-system network for embodied systems (robots, IoT, teleoperation).
+
+<!-- trademarks:begin -->
+---
+AyeAI®, AyeCNSe® and AyeAM® are registered trademarks of Abhishek Choudhary in India, used and claimed worldwide since
+2019. The names of his products and projects are his trademarks; see [legal/TRADEMARKS.md](legal/TRADEMARKS.md). Code
+licences in this repository grant copyright permissions only and no right in any mark.
+© 1993–2026 Abhishek Choudhary. All rights reserved. AyeAI.
+<!-- trademarks:end -->
